@@ -1,4 +1,4 @@
-# firestore-data-migrations
+# firestore-data-migrations PROPOSAL
 
 A data migration tool designed for [Google Firestore](https://firebase.google.com/products/firestore).
 
